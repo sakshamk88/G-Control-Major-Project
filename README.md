@@ -1,7 +1,7 @@
 # G-Control-Major-Project-
 This repository includes the hardware specification, code sketch and some images of the project. Hope it helps!
 
-### The Readme file has all the hardware descriptions you'll need for building this project.
+### The pdf file has all the hardware descriptions you'll need for building this project.
 
 # Things to remember!
 1. At the transmitter glove do not use voltage more than 5V else you'll burn up the lilypad.
